@@ -17,9 +17,7 @@ source .venv/bin/activate  # macOS/Linux
 
 pip install -r requirements.txt
 
-# (Optional) Set OpenAI API key
-export OPENAI_API_KEY="sk-..."
-export USE_OPENAI_EMBEDDINGS=1
+We can set Open api key it is optional
 
 # Download ADGM reference docs
 python download_adgm_refs.py
