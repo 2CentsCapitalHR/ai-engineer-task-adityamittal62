@@ -1,0 +1,11 @@
+
+```txt
+gradio==3.45.2
+python-docx==0.8.11
+lxml==4.9.3
+sentence-transformers==2.2.2
+chromadb==0.4.0
+openai==1.0.0
+pytest==7.4.0
+pydantic==1.10.12
+requests==2.31.0

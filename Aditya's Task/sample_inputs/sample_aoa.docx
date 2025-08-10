@@ -1,0 +1,6 @@
+from docx import Document
+
+doc = Document()
+doc.add_heading("Articles of Association", 0)
+doc.add_paragraph("All disputes shall be settled by UAE Federal Courts.")
+doc.save("sample_inputs/sample_aoa.docx")
